@@ -1,5 +1,5 @@
 ## 👋 About Me
-### <br><br>Hi! I'm Sujal Gyawali, a passionate programmer and tech enthusiast from Nepal. I enjoy building projects in Python, C++, and working with AI and machine learning. I'm always learning something new and love turning ideas into real-world solutions.<br><br>- 💻 Currently exploring deep learning and transformer models<br>- 🛠️ Projects in system design and automation<br>- 📬 Feel free to connect or collaborate!<br><br>
+### Hi! I'm Sujal Gyawali, a passionate programmer and tech enthusiast from Nepal. I enjoy building projects in Python, C++, and working with AI and machine learning. I'm always learning something new and love turning ideas into real-world solutions.<br><br>- 💻 Currently exploring deep learning and transformer models<br>- 🛠️ Projects in system design and automation<br>- 📬 Feel free to connect or collaborate!<br><br>
 
 
 ## 🌐 Socials:
